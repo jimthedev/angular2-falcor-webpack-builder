@@ -109,7 +109,7 @@ import * as JsDiff from 'diff';
             </employee-list>
           </my-employee-lists>
         </falcor-contents>
-        <filter-status *ng-if="myEmployeeListsTotalLength">Employeeing {{ myEmployeeLists.length }} of {{ myEmployeeListsTotalLength }} total.</filter-status>
+        <filter-status *ng-if="myEmployeeListsTotalLength">Showing {{ myEmployeeLists.length }} of {{ myEmployeeListsTotalLength }} total.</filter-status>
       </column>
       <column>
         <h6>Falcor's in-memory cache</h6>
