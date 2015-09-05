@@ -8,6 +8,8 @@ This project is really just a build script that runs some commands and patches i
 
 Currently, all data persistence (storage) in the app's backend is mocked which is why we don't have a working example of using falcor's model set or call. This may change in future versions of this project.
 
+![Alt text](/../screenshots/screenshot.png?raw=true "Screenshot")
+
 ## Usage
 
 ### Clone the project
